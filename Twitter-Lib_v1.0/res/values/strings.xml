@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Twitter-Lib</string>
+    <string name="str_twit">Tweet</string>
+    <string name="str_twit_dialog">Tweet with dialog</string>
+    <string name="str_twit_img">Tweet Image</string>
+    <string name="str_twit_img_txt">Tweet Image &amp; Text</string>
+    <string name="str_login">Login Twitter</string>
+    <string name="str_auth">Auth twitter</string>
+    
+    <string name="str_hint">"What's happening?</string>
+    
+    
+
+</resources>
